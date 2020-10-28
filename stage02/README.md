@@ -6,7 +6,7 @@
 
 ## Motivação e Contexto
 
-> Descrição do tema do projeto, incluindo motivação e contexto gerador.
+> O coronavírus atingiu o mundo em cheio neste ano de 2020, desde interações sociais entre indivíduos até o desempenho da economia dos países. Com ele, a ideia de Quarentena, ou o famoso 'lock down', cresceram muito neste ano e suas consequências para a população estão ainda a ser descobertas. Uma das mais predominantes que podemos destacar é o decaimento da saúde mental, uma vez que muitas pessoas estão (quase) sempre confinadas em casa, impedidos de sair, criando espaço para a ansiedade, preocupação e até pensamentos depressivos.
 
 ## Método
 
