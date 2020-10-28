@@ -2,7 +2,7 @@
 
 ## Slides da Proposta
 
-> Coloque um link para o arquivo dos slides da proposta que estão na pasta `slides`.
+> https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage02/slides/Apresenta%C3%A7%C3%A3o%20MC536.pdf
 
 ## Motivação e Contexto
 
