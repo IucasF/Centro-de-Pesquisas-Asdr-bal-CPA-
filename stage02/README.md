@@ -11,7 +11,7 @@ O objetivo então é de tentar analisar dados coletados em anos passados em dive
 
 ## Método
 
-> Quais são as análises a ser realizadas, quais os resultados esperados e qual o papel de cada modelo lógico no processo. Proposta de metodologia incluindo o que se pretende analisar e como será feita a análise.
+> Quais são as análises a ser realizadas, quais os resultados esperados e qual o papel de cada modelo lógico no processo. Proposta de metodologia incluindo o que se pretende analisar e como será feita a análise.  
 > Primeiramente, pegaremos os dados básicos dos países através do banco de dados da DBPedia; Em seguida, através do Nome de cada país, uma vez que sabemos que não existem dois países com o mesmo nome, poderemos estabelecer relações entre as diversas tabelas.  
 Com elas se relacionando entre si, oalgumas das ideias primordiais seriam a de analisar o nível de desnutrição e obesidade (Database 4/5) e comparar com os índices de transtornos mentais (Database 2), comparar a quantidade de transtornos e a quantidade de instalações para tratamento da saúde e a pobreza/riqueza do referido país, e, mais para frente, tentar comparar o tipo de dieta de cada país com tabelas de doenças/transtornos e de felicidade.  
 Sabemos que o assunto é complexo por se tratar do ser humano e é multivariável, dependente de fatores que não entraram na análise e que não estão a nosso alcance. Dito isso, esperamos encontrar uma relação pequena, porém presente nas associações previamente descritas.
