@@ -7,3 +7,5 @@
 
 ## Resumo do Projeto
 > Texto resumindo o projeto.  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IucasF/Centro-de-Pesquisas-Asdrubal/HEAD)
