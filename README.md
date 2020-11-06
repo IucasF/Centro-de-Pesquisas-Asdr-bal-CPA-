@@ -9,3 +9,6 @@
 > Texto resumindo o projeto.  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IucasF/Centro-de-Pesquisas-Asdrubal/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/IucasF/Centro-de-Pesquisas-Asdrubal/HEAD
