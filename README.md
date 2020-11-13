@@ -1,7 +1,7 @@
 # Projeto `<Título do Projeto>`
 
 ## Equipe `Centro de Pesquisas Asdrúbal (CPA)`
-* `André Luis Romão Gouvêa`
+* `André Luis R. Gouvêa`
 * `Lucas B. A. Farias`
 * `René F. Jallais`
 
