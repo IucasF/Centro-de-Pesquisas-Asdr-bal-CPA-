@@ -7,7 +7,7 @@
 ## Modelo Conceitual Atualizado
 
 > Coloque aqui a imagem do modelo conceitual atualizado em ER ou UML, como o exemplo a seguir:
-> ![ER ModeloConceitual](assets/Modelagem conceitual.png)
+> ![ER ModeloConceitual](assets/Modelagem%20conceitual.png)
 
 ## Modelos Lógicos Atualizados
 
