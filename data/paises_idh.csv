@@ -1,4 +1,4 @@
-valor1,pais,Human Development Index (HDI) ,valor2,Life expectancy at birth,valor3,Expected years of schooling,valor4,Mean years of schooling,valor5,Gross national income (GNI) per capita,valor6,GNI per capita rank minus HDI rank,valor7,HDI rank,valor8
+valor1,pais,paises_IDH,valor2,Life expectancy at birth,valor3,Expected years of schooling,valor4,Mean years of schooling,valor5,Gross national income (GNI) per capita,valor6,GNI per capita rank minus HDI rank,valor7,HDI rank,valor8
 1,Norway,0.957,,82.4,,18.1,b,12.9,,66,494,,7,,1
 2,Ireland,0.955,,82.3,,18.7,b,12.7,,68,371,,4,,3
 2,Switzerland,0.955,,83.8,,16.3,,13.4,,69,394,,3,,2
