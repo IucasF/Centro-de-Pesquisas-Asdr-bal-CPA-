@@ -183,7 +183,7 @@ Dieta(5) | [Dieta grãos](https://raw.githubusercontent.com/IucasF/Centro-de-Pes
 Dieta(6) | [Dieta leite](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20milk.csv)
 Dieta(7) | [Dieta carne vermelha](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20red%20meat.csv)
 Dieta(8) | [Dieta vegetais](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20vegetables.csv)
-Comunidades Dieta | [Países e suas comunidades de dieta](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/data/processed/community.csv)
+Comunidades Dieta | [Países e suas comunidades de dieta](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/processed/community.csv)
 Source - Target | [Países com semelhanças nas dietas](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/data/interim/source-target.csv)
 
 > Os arquivos devem ser colocados na pasta `data`, em subpasta conforme seu papel (externo, interim, processado, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
