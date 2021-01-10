@@ -170,7 +170,7 @@ Geral | https://wiki.dbpedia.org/ | Dados gerais de países (grafo)
 Título da Base | Arquivo
 ----- | -----
 Transtornos(1) | [Esquizofrenia](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/databasse5_prevalence-of-schizophrenia-in-males-vs-femalesv3.csv)
-Transtornos(2) | [Ansiedade](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/anxiety_disorders_mh.csv)
+Transtornos(2) | [Ansiedade](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/anxiety_disorders_mh.csv)
 Transtornos(3) | [Depressão](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/depression_mh.csv)
 Instalações | [Instalações](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/mental_health_facilities_gho.csv)
 Peso 2 | [Sobrepeso/Subnutrição](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/database2_overweight_underweight.csv)
