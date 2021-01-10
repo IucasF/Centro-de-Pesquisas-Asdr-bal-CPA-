@@ -24,7 +24,7 @@ ARMÁRIO(_Código_, Tamanho, Ocupante)
 ## Programa de extração e conversão de dados atualizado
 
 > Os arquivos notebooks já contêm ambos a extração de dados dos banco de dados presentes na lista de Arquivos de Dados no final desta página quanto as queries que manipularam e fizeram análises com tais dados.
-> Segue abaixo os arquivos notebooks que fizeram extração/relacionamento de dados através do Kernel SQL no Jupyter:
+> Segue abaixo os arquivos notebooks que fizeram extração/relacionamento de dados através do Kernel SQL no Jupyter: <br>
 > [Primeiras Análises (Disorders and Weight Problems)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/ConnectingDatabasesv3.ipynb) <br>
 > [Outras Análises (Disorders and Facilities)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/DisordersAndFacilities.ipynb) <br>
 > [Outras análises (Community and IDH)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/ComunityAndIDH.ipynb) 
