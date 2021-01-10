@@ -175,7 +175,7 @@ Transtornos(3) | [Depressão](https://github.com/IucasF/Centro-de-Pesquisas-Asdr
 Instalações | [Instalações](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/mental_health_facilities_gho.csv)
 Peso 2 | [Sobrepeso/Subnutrição](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/data/database2_overweight_underweight.csv)
 Dieta | [Dieta Simplificada](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/dieta.csv)
-Dieta(1) | [Dieta calcio](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/.dietary%20calciumcsv)
+Dieta(1) | [Dieta calcio](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20calcium.tsv)
 Dieta(2) | [Dieta colesterol](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20cholesterol.csv)
 Dieta(3) | [Dieta fibra](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20fiber.csv)
 Dieta(4) | [Dieta frutas](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20fruit.csv)
