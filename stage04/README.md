@@ -2,7 +2,8 @@
 
 ## Slides da Apresentação da Etapa
 
-> Coloque um link para o arquivo dos slides da apresentação que estão na pasta `slides`.
+> [Link para a Apresentação Final (pdf)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/slides/Apresenta%C3%A7%C3%A3o%20Final%20MC536.pdf) <br>
+> [Link para a Apresentação Final (pptx)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/slides/Apresenta%C3%A7%C3%A3o%20Final%20MC536.pptx)
 
 ## Modelo Conceitual Atualizado
 
@@ -22,7 +23,11 @@ ARMÁRIO(_Código_, Tamanho, Ocupante)
 
 ## Programa de extração e conversão de dados atualizado
 
-> Coloque um link para o arquivo do notebook que executa a extração e conversão de dados. Ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se a extração e conversão envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+> Os arquivos notebooks já contêm ambos a extração de dados dos banco de dados presentes na lista de Arquivos de Dados no final desta página quanto as queries que manipularam e fizeram análises com tais dados.
+> Segue abaixo os arquivos notebooks que fizeram extração/relacionamento de dados através do Kernel SQL no Jupyter:
+> [Primeiras Análises (Disorders and Weight Problems)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/ConnectingDatabasesv3.ipynb) <br>
+> [Outras Análises (Disorders and Facilities)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/DisordersAndFacilities.ipynb) <br>
+> [Outras análises (Community and IDH)](https://github.com/IucasF/Centro-de-Pesquisas-Asdrubal/blob/main/stage04/notebooks/ComunityAndIDH.ipynb) 
 
 ## Conjunto de queries de dois modelos
 
