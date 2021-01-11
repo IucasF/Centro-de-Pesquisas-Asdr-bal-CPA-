@@ -7,7 +7,9 @@
 
 ## Modelo Conceitual Atualizado
 
-> ![ER ModeloConceitual](assets/Desenho%20sem%20t%C3%ADtulo.png)
+> ![ER ModeloConceitual1](assets/Desenho%20sem%20t%C3%ADtulo.png)
+> ![ER ModeloConceitual2](assets/Desenho2.png)
+> ![ER ModeloConceitual3](assets/Desenho3.png)
 
 ## Modelos Lógicos Atualizados
 
