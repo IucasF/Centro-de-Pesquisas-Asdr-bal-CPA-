@@ -1,4 +1,4 @@
-# Projeto `Disciplina Banco de Dados`
+# Projeto Disciplina Banco de Dados
 
 ## Equipe `Centro de Pesquisas Asdrúbal (CPA)`
 * `André Luis R. Gouvêa`
