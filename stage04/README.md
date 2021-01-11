@@ -169,11 +169,11 @@ Geral | https://wiki.dbpedia.org/ | Dados gerais de países (grafo)
 
 Título da Base | Arquivo
 ----- | -----
-Transtornos(1) | [Esquizofrenia](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/databasse5_prevalence-of-schizophrenia-in-males-vs-femalesv3.csv)
-Transtornos(2) | [Ansiedade](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/anxiety_disorders_mh.csv)
-Transtornos(3) | [Depressão](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/depression_mh.csv)
-Instalações | [Instalações](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/mental_health_facilities_gho.csv)
-Peso 2 | [Sobrepeso/Subnutrição](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/database2_overweight_underweight.csv)
+Transtornos(1) | [Esquizofrenia](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/databasse5_prevalence-of-schizophrenia-in-males-vs-femalesv3.csv)
+Transtornos(2) | [Ansiedade](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/anxiety_disorders_mh.csv)
+Transtornos(3) | [Depressão](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/depression_mh.csv)
+Instalações | [Instalações](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/mental_health_facilities_gho.csv)
+Peso 2 | [Sobrepeso/Subnutrição](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/database2_overweight_underweight.csv)
 Dieta | [Dieta Simplificada](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/dieta.csv)
 Dieta(1) | [Dieta calcio](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20calcium.tsv)
 Dieta(2) | [Dieta colesterol](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20cholesterol.csv)
@@ -185,7 +185,7 @@ Dieta(7) | [Dieta carne vermelha](https://raw.githubusercontent.com/IucasF/Centr
 Dieta(8) | [Dieta vegetais](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/dietary%20vegetables.csv)
 Comunidades Dieta | [Países e suas comunidades de dieta](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/processed/community.csv)
 Source - Target | [Países com semelhanças nas dietas](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/interim/source-target.csv)
-IDH | [IDH Países](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/data/paises_idh.csv)
+IDH | [IDH Países](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/paises_idh.csv)
 
 > Os arquivos devem ser colocados na pasta `data`, em subpasta conforme seu papel (externo, interim, processado, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
 > Coloque arquivos relacionais (usualmente CSV), XML ou JSON que não estejam disponíveis online e sejam acessados pelo notebook.
