@@ -7,14 +7,10 @@
 
 ## Modelo Conceitual Atualizado
 
-> Coloque aqui a imagem do modelo conceitual atualizado em ER ou UML, como o exemplo a seguir:
-> ![ER ModeloConceitual](assets/Modelagem%20conceitual.png)
+> ![ER ModeloConceitual](assets/Desenho%20sem%20t%C3%ADtulo.png)
 
 ## Modelos Lógicos Atualizados
 
-> Coloque aqui os dois modelos lógicos dos bancos de dados relacionados aos modelos conceituais. O modelo lógico da etapa anterior pode ser copiado ou apresentado revisado. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos o formato é livre, pode ser adotado aqueles apresentados em sala.
-
-> Exemplo de modelo lógico relacional
 ~~~
 ESQUIZOFRENIA(_Entidade_, Código, _Ano_, População, Continente, PorcentagemEsquizofreniaHomens, PorcentagemEsquizofreniaMulheres)
 ANSIEDADE(_Entidade_, Código, _Ano_, PrevalênciaDistúrbiosMentais)
@@ -45,9 +41,6 @@ IDH(_País_, IDH)
 
 ## Conjunto de queries de dois modelos
 
-> Acrescente um link para o arquivo do notebook que executa o segundo conjunto de queries. Ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
-> O link para queries da etapa 3 também deve aparecer aqui e as queries poderão ser revisadas.
-> Link para notebook:
 > Queries referentes à análise feita no Cypher:
 ~~~
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/raw/.csv' AS line
@@ -162,7 +155,6 @@ return source.nome,target.nome
 ~~~
 
 ## Bases de Dados
-> Elencar as bases de dados utilizadas no projeto. Trata-se de uma atualização daquelas apresentadas na Etapa 3.
 
 título da base | link | breve descrição
 ----- | ----- | -----
@@ -179,7 +171,6 @@ Geral | https://wiki.dbpedia.org/ | Dados gerais de países (grafo)
 
 
 ## Arquivos de Dados
-> Elencar os arquivos usados no projeto que estão disponíveis no Github do projeto (manter os da Etapa 3 e acrescentar os da Etapa 4).
 
 Título da Base | Arquivo
 ----- | -----
@@ -200,6 +191,3 @@ Dieta(8) | [Dieta vegetais](https://raw.githubusercontent.com/IucasF/Centro-de-P
 Comunidades Dieta | [Países e suas comunidades de dieta](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/processed/community.csv)
 Source - Target | [Países com semelhanças nas dietas](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/interim/source-target.csv)
 IDH | [IDH Países](https://raw.githubusercontent.com/IucasF/Centro-de-Pesquisas-Asdrubal/main/stage04/data/external/paises_idh.csv)
-
-> Os arquivos devem ser colocados na pasta `data`, em subpasta conforme seu papel (externo, interim, processado, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
-> Coloque arquivos relacionais (usualmente CSV), XML ou JSON que não estejam disponíveis online e sejam acessados pelo notebook.
