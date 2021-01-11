@@ -16,9 +16,23 @@
 
 > Exemplo de modelo lógico relacional
 ~~~
-PESSOA(_Código_, Nome, Telefone)
-ARMÁRIO(_Código_, Tamanho, Ocupante)
-  Ocupante chave estrangeira -> PESSOA(Código)
+ESQUIZOFRENIA(_Entidade_, Código, _Ano_, População, Continente, PorcentagemEsquizofreniaHomens, PorcentagemEsquizofreniaMulheres)
+ANSIEDADE(_Entidade_, Código, _Ano_, PrevalênciaDistúrbiosMentais)
+DEPRESSÃO(_Entidade_, Código, _Ano_, População, Continente, PrevalênciaDistúrbiosDepressívosHomens. PrevalênciaDistúrbiosDepressívosMulheres)
+INSTALAÇÕES(_País_, _Ano_, HospitaisPsiquiátricos, UnidadesSaúdeMental, AmbulatórioSaúdeMental, TratamentoDiárioSaúdeMental, InstalaçõesResidenciaisComunitárias)
+SOBREPESO/DESNUTRIÇÃO(Categoria, _Indicador_, CódigoIndicador, _País_, CódigoPaís, _Ano_, Valor, LinkMetadados, Comentários)
+DIETA-SIMPLES(_País_, Cálcio, Colesterol, Fibra, Fruta, Legumes, Leite, CarneVermelha, Vegetais, Grãos)
+DIETA-CÁLCIO(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-COLESTEROL(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-FIBRA(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-FRUTAS(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-GRÃOS(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-LEITE(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-CARNE-VERMELHA(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+DIETA-VEGETAIS(_FatorDieta_, Unidade, _País_, MédiaExposição, MédiaPontuação)
+COMUNIDADES-DIETA(Nome, _IDComunidade_)
+SEMELHANÇAS-DIETA(_Origem_, _Alvo_)
+IDH(_País_, IDH)
 ~~~
 
 ## Programa de extração e conversão de dados atualizado
